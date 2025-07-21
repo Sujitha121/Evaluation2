@@ -27,4 +27,4 @@ UG, PG, and Doctoral programs across engineering, management, law, sciences, hum
 
 Focus on outcome-based learning, entrepreneurship, and research.
 
-State-of-the-art infrastructure with smart classrooms, labs, and librarie
+State-of-the-art infrastructure with smart classrooms, lbas, and librraie
