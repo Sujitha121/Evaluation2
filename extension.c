@@ -16,4 +16,7 @@ int main() {
 sujitha 
 cse
 aiml
-aub
+abu
+amity university bengaluru is loacted in banglore
+devanahalli
+ kk
