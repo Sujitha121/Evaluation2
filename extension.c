@@ -19,4 +19,5 @@ aiml
 abu
 amity university bengaluru is loacted in banglore
 devanahalli
- kk
+
+Amity University Bengaluru (AUB) is a part of the globally recognized Amity Education Group, known for academic excellence, innovation, and industry-aligned programs. Located in Bengaluru, Karnataka, AUB offers a modern, industry-integrated campus experience designed to nurture future-ready professionals.
